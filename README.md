@@ -1,2 +1,2 @@
 # Practicas-FDI
-Repositorio con todas las practicas que se he realizado en estos años de estudio
+Repositorio con algunas de las practicas que he realizado en estos años de estudio
